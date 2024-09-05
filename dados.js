@@ -13,7 +13,13 @@ let dados = [
         titulo : "Cosmos sulphureus",
         descrição : "Uma explosão de cores no seu jardim. O Cosmos sulphureus, popularmente conhecido como cosmos amarelo, é uma flor vibrante e fácil de cultivar, sendo um verdadeiro presente para qualquer jardim.",
         link : "https://pt.wikipedia.org/wiki/Cosmos_%28g%C3%A9nero%29" 
-    }
+    },
+    {
+        titulo : "Cosmos sulphureus",
+        descrição : "Uma explosão de cores no seu jardim. O Cosmos sulphureus, popularmente conhecido como cosmos amarelo, é uma flor vibrante e fácil de cultivar, sendo um verdadeiro presente para qualquer jardim.",
+        link : "https://pt.wikipedia.org/wiki/Cosmos_%28g%C3%A9nero%29" 
+    },
+    
 ];
 
  
